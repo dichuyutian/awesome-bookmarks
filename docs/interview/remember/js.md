@@ -128,7 +128,8 @@ Object.create = function(o) {
 ```
 
 延伸： Object.create(null) vs {}
-!!!include(docs/blog/javascript/Object.create.md)!!!
+
+https://panjiachen.github.io/awesome-bookmarks/blog/js.html#object-create-null-vs
 
 <!-- TODO -->
 
