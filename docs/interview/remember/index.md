@@ -1,13 +1,13 @@
 <!-- prettier-ignore-start -->
-!!!include(docs/blog/other/remember/js.md)!!!
+!!!include(docs/interview/remember/js.md)!!!
 
-!!!include(docs/blog/other/remember/browser.md)!!!
+!!!include(docs/interview/remember/browser.md)!!!
 
-!!!include(docs/blog/other/remember/mobile.md)!!!
+!!!include(docs/interview/remember/mobile.md)!!!
 
-!!!include(docs/blog/other/remember/cs.md)!!!
+!!!include(docs/interview/remember/cs.md)!!!
 
-!!!include(docs/blog/other/remember/security.md)!!!
+!!!include(docs/interview/remember/security.md)!!!
 <!-- prettier-ignore-end -->
 
 ## flutter vs react native
