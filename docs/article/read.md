@@ -1,61 +1,62 @@
-## 阅读过
+## 值得一读的好文
 
-2019.05.13
+#### 2019.05.13
 
 - [拼多多为什么崛起？这是目前解读最深刻的一篇](https://mp.weixin.qq.com/s/nuagQDITe6CdKoHeD3w71g)
 - [前端人眼中的大数据生态链](https://juejin.im/post/5c99ef1fe51d45533b070cc2)
 - [聊一聊前端换肤](https://juejin.im/post/5ca41617f265da3092006155)
 
-  2019.05.16
+#### 2019.05.16
 
 - [LD | 前端一定要知道的设计常识(一) | 席克定律](https://juejin.im/post/5cab54d76fb9a0688e06566e)
 - [png 文章](https://juejin.im/post/5c8e4feb6fb9a070aa5ce200)
 - [前端安全系列（一）：如何防止 XSS 攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
 - [前端安全系列（二）：如何防止 CSRF 攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
 
-  2019.05.21
+#### 2019.05.21
 
 - [CSS can do that?](https://dev.to/ananyaneogi/css-can-do-that-18g7)
 
-  2019.05.23
+#### 2019.05.23
 
 - [大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf)
 
-  2019.06.10
+#### 2019.06.10
 
 - [What's new in javascript](https://juejin.im/post/5cf4773be51d4556bb4cd334)
 
-  2019.06.27
+#### 2019.06.27
 
 - [把一生过成两辈子：颠覆你时间观的两个概念](https://mp.weixin.qq.com/s/CvrbpDE55upLgjjujI7KMA)
 - [蚂蚁金服的前端框架和工程化实践](https://github.com/sorrycc/blog/issues/85)
 - [阿里前端委员会主席圆心：前端路上的思考](https://www.infoq.cn/article/bLJfJg5_Eq2yOlW5VBaP)
 
-  2019.07.07
+#### 2019.07.07
 
 - [如何有效地提升执行力](https://www.barretlee.com/blog/2019/06/11/improving-execution/)
 - [为什么我就遇不到，手摸手指导我的 leader？](https://mp.weixin.qq.com/s/7PVnUFf31HW163S2exWQEw)
 - [”我是技术总监，我确实答不出那么多技术细节”](https://mp.weixin.qq.com/s/3nTBEfIKP1C-3ivHfdd4BA)
 
-  2019.07.15
+#### 2019.07.15
 
 - [对话 BOSS 直聘赵鹏：技术人员先富起来，整个厂才有可能都富起来](https://mp.weixin.qq.com/s/R86dgmx8r3WEFw1DZDhsfw)
 - [反击爬虫，前端工程师的脑洞可以有多大？](https://imweb.io/topic/595b7161d6ca6b4f0ac71f05)
 - [avaScript 反调试技巧](https://www.freebuf.com/articles/system/163579.html)
 - [“后台产品” UX & UI 设计总结（上）- 设计要点概括](https://zhuanlan.zhihu.com/p/28787738)
 
-  2019.07.17
-  [技术人具备“结构化思维”意味着什么？](https://zhuanlan.zhihu.com/p/73964313)
-  [fullpage.js 这个开源项目怎样从免费到每月$15000](https://mp.weixin.qq.com/s/JXj-TzNvaeRLE-ZrlrmQyQ)
+#### 2019.07.17
 
-  2019.07.20
+[技术人具备“结构化思维”意味着什么？](https://zhuanlan.zhihu.com/p/73964313)
+[fullpage.js 这个开源项目怎样从免费到每月$15000](https://mp.weixin.qq.com/s/JXj-TzNvaeRLE-ZrlrmQyQ)
 
-  - [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
-  - [「自然交互 1」前馈：让功能找到用户；让用户体验美好](https://zhuanlan.zhihu.com/p/41952711)
+#### 2019.07.20
 
-    2019.07.25
+- [一个程序员的成长之路](https://github.com/fouber/blog/issues/41)
+- [「自然交互 1」前馈：让功能找到用户；让用户体验美好](https://zhuanlan.zhihu.com/p/41952711)
 
-  - [在阿里一年，我颠覆了曾经坚信不疑的技术思维...](https://mp.weixin.qq.com/s/K_yRMj45mSA7XyIo6PsQKA)
+#### 2019.07.25
+
+- [在阿里一年，我颠覆了曾经坚信不疑的技术思维...](https://mp.weixin.qq.com/s/K_yRMj45mSA7XyIo6PsQKA)
 
 ## 待读
 

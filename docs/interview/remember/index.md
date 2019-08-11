@@ -1,15 +1,3 @@
-<!-- prettier-ignore-start -->
-!!!include(docs/interview/remember/js.md)!!!
-
-!!!include(docs/interview/remember/browser.md)!!!
-
-!!!include(docs/interview/remember/mobile.md)!!!
-
-!!!include(docs/interview/remember/cs.md)!!!
-
-!!!include(docs/interview/remember/security.md)!!!
-<!-- prettier-ignore-end -->
-
 ## flutter vs react native
 
 谷歌大会上

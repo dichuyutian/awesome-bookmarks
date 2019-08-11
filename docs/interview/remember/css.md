@@ -1,4 +1,6 @@
-### css## css 相关知识
+### css
+
+## css 相关知识
 
 #### flex
 
@@ -128,7 +130,7 @@ a 标签 添加 nofollow 告诉 google 不抓取
 
 article aside main
 
-HTML <s> 元素 使用删除线来渲染文本。使用 <s> 元素来表示不再相关
+HTML `<s>` 元素 使用删除线来渲染文本。使用 `<s>` 元素来表示不再相关
 
 相关资料：http://justineo.github.io/slideshows/semantic-html
 
