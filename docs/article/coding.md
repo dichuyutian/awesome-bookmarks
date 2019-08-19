@@ -259,14 +259,14 @@ if (!aup || !bup) {
   return a === doc
     ? -1
     : b === doc
-      ? 1
-      : aup
-        ? -1
-        : bup
-          ? 1
-          : sortInput
-            ? indexOf.call(sortInput, a) - indexOf.call(sortInput, b)
-            : 0
+    ? 1
+    : aup
+    ? -1
+    : bup
+    ? 1
+    : sortInput
+    ? indexOf.call(sortInput, a) - indexOf.call(sortInput, b)
+    : 0
 }
 ```
 

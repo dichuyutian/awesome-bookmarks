@@ -10,8 +10,8 @@
   angular.js 是通过脏值检测的方式比对数据是否有变更，来决定是否更新视图，最简单的方式就是通过 setInterval() 定时轮询检测数据变动，当然 Google 不会这么 low，angular 只有在指定的事件触发时进入脏值检测，大致如下：
 
 > - DOM 事件，譬如用户输入文本，点击按钮等( ng-click )
-> - XHR 响应事件 ( $http )
-> - 浏览器 Location 变更事件 ( $location )
+> - XHR 响应事件 ( \$http )
+> - 浏览器 Location 变更事件 ( \$location )
 > - Timer 事件( $timeout , $interval )
 > - 执行 $digest() 或 $apply()
 

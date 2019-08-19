@@ -47,7 +47,7 @@
 #### 2019.07.17
 
 [技术人具备“结构化思维”意味着什么？](https://zhuanlan.zhihu.com/p/73964313)
-[fullpage.js 这个开源项目怎样从免费到每月$15000](https://mp.weixin.qq.com/s/JXj-TzNvaeRLE-ZrlrmQyQ)
+[fullpage.js 这个开源项目怎样从免费到每月\$15000](https://mp.weixin.qq.com/s/JXj-TzNvaeRLE-ZrlrmQyQ)
 
 #### 2019.07.20
 
@@ -57,6 +57,14 @@
 #### 2019.07.25
 
 - [在阿里一年，我颠覆了曾经坚信不疑的技术思维...](https://mp.weixin.qq.com/s/K_yRMj45mSA7XyIo6PsQKA)
+
+#### 2019.08.15
+
+- [白鸦内部培训：企业服务类产品的底层逻辑，和“有赞产品设计原则”](https://mp.weixin.qq.com/s/-kLQPDU-9337mN1ebjuYqA)
+
+#### 2019.08.19
+
+-[从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)
 
 ## 待读
 

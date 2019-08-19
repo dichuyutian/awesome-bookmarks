@@ -122,8 +122,8 @@ webpack 一直以来最饱受诟病的就是其配置门槛极高，配置内容
 这属性会决定你 chunks 的加载顺序，如果设置为`none`，你的 chunk 加载在页面中加载的顺序就不能够保证了，可能会出现样式被覆盖的情况。比如我在`app.css`里面修改了一个第三方库`element-ui`的样式，通过加载顺序的先后来覆盖它，但由于设置为了`none`，打包出来的结果变成了这样：
 
 ```html
-<link href="/app.8945fbfc.css" rel="stylesheet">
-<link href="/chunk-elementUI.2db88087.css" rel="stylesheet">
+<link href="/app.8945fbfc.css" rel="stylesheet" />
+<link href="/chunk-elementUI.2db88087.css" rel="stylesheet" />
 ```
 
 `app.css`被先加载了，之前写的样式覆盖就失效了，除非你使用`important`或者其它 css 权重的方式覆盖它，但这明显是不太合理的。

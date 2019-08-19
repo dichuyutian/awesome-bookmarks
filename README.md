@@ -108,6 +108,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [he](https://github.com/mathiasbynens/he) 一个前端 encoder/decoder 库
 - [grade](https://github.com/benhowdle89/grade) 一个可以根据你的 图片 调整底色的插件
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) 将字节转换成可以读的字符串，比如 1337 个字节，会显示成 1.34 KB
+- [runkit](https://runkit.com) 一个基于 node 的在线 playground
 
 ## Css && 动画
 
@@ -169,6 +170,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [stats.js](https://github.com/mrdoob/stats.js/) 前端性能监控 如 FPS、内存使用情况等
 - [PapaParse](https://github.com/mholt/PapaParse) 解析 csv excel
 - [mddir](https://github.com/JohnByrneRepo/mddir) 生成 markdown file/folder structure 目录结构 tree
+- [imagemin](https://github.com/imagemin/imagemin) 图片压缩库
 
 ## Node
 
@@ -213,6 +215,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [listr](https://github.com/SamVerschueren/listr) Terminal task list
 - [dotenv](https://github.com/motdotla/dotenv) 通过.env 设置环境部变量 vue-cli 也依赖它
 - [why-is-node-running](https://github.com/mafintosh/why-is-node-running) 查看 node 为什么在运行
+- [siege](https://www.joedog.org/siege-home/) 压测工具
 
 ## GraphQL
 
@@ -471,6 +474,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://panjia
 - [nord ](https://github.com/arcticicestudio/nord) 北欧性冷淡风主题配色
 - [Unsplash](https://unsplash.com/) 提供免费的高清图片
 - [colorkitty](https://colorkitty.com/) 从你的图片中提取配色
+- [design.youzan](design.youzan.com) 有赞设计原则
 
 ## 有趣
 

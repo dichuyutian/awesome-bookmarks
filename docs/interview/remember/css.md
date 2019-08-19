@@ -30,16 +30,19 @@ https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/
 
 ```html
 <!-- 默认使用最新浏览器 -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 <!-- 搜索引擎抓取 -->
-<meta name="renderer" content="webkit">
+<meta name="renderer" content="webkit" />
 
 <!-- 禁止缩放-->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui"
+/>
 
 <!-- 删除苹果默认的工具栏和菜单栏 -->
-<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes" />
 ```
 
 ### 元素

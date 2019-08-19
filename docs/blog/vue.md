@@ -7,10 +7,13 @@
 查阅文档之后发现它有一个 `event`参数，默认是`click`。我们只要将它设空，之后自己来处理跳转的逻辑就可以了。
 
 ```html
-<router-link :to="{ name: 'my-favorites' }"
-             :event="''"
-             @click.native.prevent="routeOrLogin({ name: 'my-favorites' })">
-  Favorites</router-link>
+<router-link
+  :to="{ name: 'my-favorites' }"
+  :event="''"
+  @click.native.prevent="routeOrLogin({ name: 'my-favorites' })"
+>
+  Favorites</router-link
+>
 ```
 
 ## Dynamic Components
@@ -52,7 +55,7 @@ vue 一个就是 它可以写愉快的写 template 一个类 html 的模板，�
       }
     },
     methods: {
-      linkProps (url) {
+      linkProps(url) {
         if (url.match(/^(http(s)?|ftp):\/\//)) {
           return {
             is: 'a',

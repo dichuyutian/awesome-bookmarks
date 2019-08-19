@@ -96,6 +96,7 @@ sidebar: auto
 - [nord ](https://github.com/arcticicestudio/nord) 北欧性冷淡风主题配色
 - [Unsplash](https://unsplash.com/) 提供免费的高清图片
 - [colorkitty](https://colorkitty.com/) 从你的图片中提取配色
+- [design.youzan](design.youzan.com) 有赞设计原则
 
 ## 有趣
 

@@ -15,14 +15,14 @@ Node.insertBefore()很多人都用过， 它在参考节点之前插入一个节
 ```html
 <div id="parentElement">
   <span id="bar">bar</span>
-  <span id='foo'>foo</span>
+  <span id="foo">foo</span>
 </div>
 
 <script>
-var foo = document.getElementById("foo")
-var bar = document.getElementById("bar")
-var parentDiv = document.getElementById("parentElement")
-parentDiv.insertBefore(foo, bar)
+  var foo = document.getElementById('foo')
+  var bar = document.getElementById('bar')
+  var parentDiv = document.getElementById('parentElement')
+  parentDiv.insertBefore(foo, bar)
 </script>
 ```
 
